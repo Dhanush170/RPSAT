@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+langchain-community
+langchain-huggingface
+langchain-groq
+chromadb
+pymupdf
+gtts
+deep-translator
+python-dotenv
+
+!pip install pymupdf python-dotenv google-generativeai langchain langchain-community langchain-huggingface langchain-text-splitters langchain-groq langchain-google-genai chromadb transformers sentence-transformers
